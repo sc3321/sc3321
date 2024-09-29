@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Shreeharan]!
+# Hi there! 👋 I'm Shreeharan!
 
 Welcome to my GitHub profile! I'm a penultimate-year **Computer Engineering** student with a passion for developing optimized, low-latency software, building complex systems, and applying quantitative analysis to financial markets. I have experience working with various languages and technologies and am currently working on some exciting projects!
 
@@ -46,9 +46,9 @@ A custom **C++ compiler** built from scratch as part of my object-oriented progr
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc3321&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc3321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Interests
 

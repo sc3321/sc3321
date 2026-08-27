@@ -22,10 +22,4 @@ A user-space layer abstraction for phase-scoped batching of GPU work.
 ### C++ Compiler
 A  **C++ compiler** built from scratch as part of the Instruction Set Architectures and Compilers Course at Imperial College London.
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc3321&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc3321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 Thanks for visiting my profile! 😊
